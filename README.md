@@ -10,8 +10,7 @@ Software Engineer at Turing Research Team
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nastaranmofakhami&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nastaranmofakhami&theme=tokyonight&hide_border=false)<br/>
-Proudly Working with Turing Research Team
-![turing-logo](https://github.com/user-attachments/assets/129f0795-9634-4b9a-a0c2-eec73231c441)
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nastaranmofakhami&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -20,6 +19,9 @@ Proudly Working with Turing Research Team
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nastaranmofakhami&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+Proudly Working with Turing Research Team
+![turing-logo](https://github.com/user-attachments/assets/129f0795-9634-4b9a-a0c2-eec73231c441) <br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nastaranmofakhami&icon=0&color=1)](https://visitcount.itsvg.in)
